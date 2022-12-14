@@ -1,0 +1,33 @@
+.bgCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.smallBox {
+  height: 100px;
+  width: 100px;
+  background-color: #fbbf24;
+}
+.boxCont {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.heading {
+  font-family: Roboto;
+  font-weight: 600;
+}
+.mediumBox {
+  height: 120px;
+  width: 120px;
+  background-color: #38bdf8;
+  margin-left: 10px;
+}
+.largeBox {
+  height: 150px;
+  width: 150px;
+  background-color: #ec4899;
+  margin-left: 10px;
+}
